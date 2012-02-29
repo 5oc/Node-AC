@@ -1,0 +1,7 @@
+Node script for apache http server log file analysis.
+Collects amounts of url requests for resources and prints a summary.
+
+ToDo:
+
+- configureable regex
+- configureable filter function
